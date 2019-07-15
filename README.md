@@ -1,3 +1,3 @@
 # hello-world
 Cheers.
-I'm learngin to use GitHub!
+I'm learning to use GitHub!
